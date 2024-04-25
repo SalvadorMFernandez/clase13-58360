@@ -1,5 +1,8 @@
-@import "./utilities/colors.scss";
+// Utilidades (VARS → Reset)
 
-@import "./utilities/reset";
+@import './utilities/colors';
+@import './utilities/font';
+@import './utilities/reset';
 
-@import "./sections/header";
+// Secciones
+@import './sections/header';
